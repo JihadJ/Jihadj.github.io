@@ -3,8 +3,6 @@ layout: post
 title: You're the best league Support!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+# markdown
+# Past, Present, Future.
+I used to watch Avatar the last airbender, and binge watch the marathons every night till 12am. I also, used to read alot which I no longer do alot of. What I do now is play tennis, play basketball, play video games, and play music at home and with the band. In my future I want to develop games, cartoons, or do something in the steam field. 
