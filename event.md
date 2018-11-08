@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Current Events
-permalink: /event/
+permalink: jihadj.github.io/event/
 ---
 Over the week youtubers playing the widely recognizable game Red Dead Redemption, were posting videos killing a suffragette in the game. 
 This upset alot of people, and youtube took action by taking the videos, and in some cases the youtuber themselves were banned too. 
