@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Current Events
-permalink: event
+title: About
+permalink: about
 ---
 <div id="header"></div>
 <div class="left"></div>
