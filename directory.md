@@ -1,4 +1,4 @@
-*[Destiny Benjamin](01destinyb.github.i)
+*Destiny Benjamin (01destinyb.github.i)
 *Dekendrick Dukes (https://theinfamousken.github.io/about/)
 *Sergio Lopez (https://azaidensuniverses.github.io/)
 *Giselle Rivas (https://odaliss12.github.io/)
